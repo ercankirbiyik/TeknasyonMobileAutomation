@@ -1,2 +1,0 @@
-Error: Could not find or load main class com.thoughtworks.gauge.GaugeRuntime
-Caused by: java.lang.ClassNotFoundException: com.thoughtworks.gauge.GaugeRuntime
