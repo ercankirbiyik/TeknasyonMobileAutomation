@@ -1,0 +1,288 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (19) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also https://www.slf4j.org/codes.html#replay
+{"logLevel":"debug","message":"gauge-java took 667milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 667"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+2023-08-25 17:17:34 INFO  Reflections:219 scan - Reflections took 1023 ms to scan 145 urls, producing 5471 keys and 30268 values
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.equalsTextByKey' and 'com.teknasyon.StepImplementation.equalsTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin değeri {} e eşitliğini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.equalsTextByKey' and 'com.teknasyon.StepImplementation.equalsTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and text equals {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.existElement' and 'com.teknasyon.StepImplementation.existElement'"}
+{"logLevel":"debug","message":"Found {} elementinin görünürlüğü kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.existElement' and 'com.teknasyon.StepImplementation.existElement'"}
+{"logLevel":"debug","message":"Found Check if element {} exist in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeToElementContainsText' and 'com.teknasyon.StepImplementation.swipeToElementContainsText'"}
+{"logLevel":"debug","message":"Found {} textini içeren elemente kadar aşağı kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkElementIsNotActive' and 'com.teknasyon.StepImplementation.checkElementIsNotActive'"}
+{"logLevel":"debug","message":"Found {} elementi aktif değil mi kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkElementIsNotActive' and 'com.teknasyon.StepImplementation.checkElementIsNotActive'"}
+{"logLevel":"debug","message":"Found Check element {} is not active in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.tapElementWithKey' and 'com.teknasyon.StepImplementation.tapElementWithKey'"}
+{"logLevel":"debug","message":"Found {} li elementin  merkezine tıkla  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByValue' and 'com.teknasyon.StepImplementation.clickByValue'"}
+{"logLevel":"debug","message":"Found İçeriği {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByValue' and 'com.teknasyon.StepImplementation.clickByValue'"}
+{"logLevel":"debug","message":"Found Find element value equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.tapElementWithKeyControl' and 'com.teknasyon.StepImplementation.tapElementWithKeyControl'"}
+{"logLevel":"debug","message":"Found {} li element varsa tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.findByKeyWithSwipe' and 'com.teknasyon.StepImplementation.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li elementi bulana kadar swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.findByKeyWithSwipe' and 'com.teknasyon.StepImplementation.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found Find element by {}  swipe  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByText' and 'com.teknasyon.StepImplementation.clickByText'"}
+{"logLevel":"debug","message":"Found Değeri {} e eşit olan elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByText' and 'com.teknasyon.StepImplementation.clickByText'"}
+{"logLevel":"debug","message":"Found Find element text equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendKeysByKey' and 'com.teknasyon.StepImplementation.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve {} değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendKeysByKey' and 'com.teknasyon.StepImplementation.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} clear and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.getPageSourceFindWord' and 'com.teknasyon.StepImplementation.getPageSourceFindWord'"}
+{"logLevel":"debug","message":"Found {} değerini sayfa üzerinde olup olmadığını kontrol et. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendRandomNumber' and 'com.teknasyon.StepImplementation.sendRandomNumber'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve random numara değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeUP' and 'com.teknasyon.StepImplementation.swipeUP'"}
+{"logLevel":"debug","message":"Found {} kere yukarı doğru kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeUP' and 'com.teknasyon.StepImplementation.swipeUP'"}
+{"logLevel":"debug","message":"Found Swipe up times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkTheContainsSaveKey' and 'com.teknasyon.StepImplementation.checkTheContainsSaveKey'"}
+{"logLevel":"debug","message":"Found {} li element saklanan {} değerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkTheContainsSaveKey' and 'com.teknasyon.StepImplementation.checkTheContainsSaveKey'"}
+{"logLevel":"debug","message":"Found Check that the element {} contains the saved attribute {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.openTheNotification' and 'com.teknasyon.StepImplementation.openTheNotification'"}
+{"logLevel":"debug","message":"Found Open the notification bar area in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByIdWithContains' and 'com.teknasyon.StepImplementation.clickByIdWithContains'"}
+{"logLevel":"debug","message":"Found {} li ve değeri {} e eşit olan elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByIdWithContains' and 'com.teknasyon.StepImplementation.clickByIdWithContains'"}
+{"logLevel":"debug","message":"Found Find element by {} text equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.pointToPointSwipe' and 'com.teknasyon.StepImplementation.pointToPointSwipe'"}
+{"logLevel":"debug","message":"Found {},{} oranlarından {},{} oranlarına {} kere swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendKeysByKeyNotClear' and 'com.teknasyon.StepImplementation.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found {} textini {} elementine yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendKeysByKeyNotClear' and 'com.teknasyon.StepImplementation.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found Find element by {} and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.pressElementForDuration' and 'com.teknasyon.StepImplementation.pressElementForDuration'"}
+{"logLevel":"debug","message":"Found {} elementine {} saniye boyunca basılı tut in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.pressElementForDuration' and 'com.teknasyon.StepImplementation.pressElementForDuration'"}
+{"logLevel":"debug","message":"Found Press and hold the element {} for {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clearListsFromRam' and 'com.teknasyon.StepImplementation.clearListsFromRam'"}
+{"logLevel":"debug","message":"Found Bellekte kaydedilen liste ve mapleri temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkNumberOfElementsWithText' and 'com.teknasyon.StepImplementation.checkNumberOfElementsWithText'"}
+{"logLevel":"debug","message":"Found {} tane {} elementi var mı kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkNumberOfElementsWithText' and 'com.teknasyon.StepImplementation.checkNumberOfElementsWithText'"}
+{"logLevel":"debug","message":"Found Check for {} {} elements in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.notExistElement' and 'com.teknasyon.StepImplementation.notExistElement'"}
+{"logLevel":"debug","message":"Found {} elementinin olmadigi kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.notExistElement' and 'com.teknasyon.StepImplementation.notExistElement'"}
+{"logLevel":"debug","message":"Found Check that the {} element is not visible in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkTextByKey' and 'com.teknasyon.StepImplementation.checkTextByKey'"}
+{"logLevel":"debug","message":"Found {} elementinin {} textini içerdiği kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkTextByKey' and 'com.teknasyon.StepImplementation.checkTextByKey'"}
+{"logLevel":"debug","message":"Found Check that the {} element contains the text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.waitBySecond' and 'com.teknasyon.StepImplementation.waitBySecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.waitBySecond' and 'com.teknasyon.StepImplementation.waitBySecond'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipe' and 'com.teknasyon.StepImplementation.swipe'"}
+{"logLevel":"debug","message":"Found {} yönüne swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.tapElementMultipleTimes' and 'com.teknasyon.StepImplementation.tapElementMultipleTimes'"}
+{"logLevel":"debug","message":"Found {} elementine {} kez tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.tapElementMultipleTimes' and 'com.teknasyon.StepImplementation.tapElementMultipleTimes'"}
+{"logLevel":"debug","message":"Found Click the {} element {} times in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.createRandomNumber' and 'com.teknasyon.StepImplementation.createRandomNumber'"}
+{"logLevel":"debug","message":"Found {} uzunlugunda random bir kelime üret ve {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.koordinataTikla' and 'com.teknasyon.StepImplementation.koordinataTikla'"}
+{"logLevel":"debug","message":"Found {},{} koordinatlarına tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickBybackButton' and 'com.teknasyon.StepImplementation.clickBybackButton'"}
+{"logLevel":"debug","message":"Found geri butonuna bas in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clearKeysByKey' and 'com.teknasyon.StepImplementation.clearKeysByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clearKeysByKey' and 'com.teknasyon.StepImplementation.clearKeysByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} clear in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeUPTwo' and 'com.teknasyon.StepImplementation.swipeUPTwo'"}
+{"logLevel":"debug","message":"Found {} kere hafif yukarı doğru kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeUP' and 'com.teknasyon.StepImplementation.swipeUPTwo'"}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeUPTwo' and 'com.teknasyon.StepImplementation.swipeUPTwo'"}
+{"logLevel":"debug","message":"Found Swipe up times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByText' and 'com.teknasyon.StepImplementation.clickByText'"}
+{"logLevel":"debug","message":"Found Değeri {} e eşit olan {}. elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.containsTextByKey' and 'com.teknasyon.StepImplementation.containsTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin değeri {} e içerdiğini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.containsTextByKey' and 'com.teknasyon.StepImplementation.containsTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and text contains {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByKey' and 'com.teknasyon.StepImplementation.clickByKey'"}
+{"logLevel":"debug","message":"Found {} Elementine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByKey' and 'com.teknasyon.StepImplementation.clickByKey'"}
+{"logLevel":"debug","message":"Found Click element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.chooseRandomProduct' and 'com.teknasyon.StepImplementation.chooseRandomProduct'"}
+{"logLevel":"debug","message":"Found {} li elementi rasgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkElementIsActive' and 'com.teknasyon.StepImplementation.checkElementIsActive'"}
+{"logLevel":"debug","message":"Found {} elementi aktif mi kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.checkElementIsActive' and 'com.teknasyon.StepImplementation.checkElementIsActive'"}
+{"logLevel":"debug","message":"Found Check element {} is active in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.saveTextByKey' and 'com.teknasyon.StepImplementation.saveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.saveTextByKey' and 'com.teknasyon.StepImplementation.saveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and save text as {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.hideAndroidKeyboard' and 'com.teknasyon.StepImplementation.hideAndroidKeyboard'"}
+{"logLevel":"debug","message":"Found Klavyeyi kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.hideAndroidKeyboard' and 'com.teknasyon.StepImplementation.hideAndroidKeyboard'"}
+{"logLevel":"debug","message":"Found Hide keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.existClickByKey' and 'com.teknasyon.StepImplementation.existClickByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve varsa tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.existClickByKey' and 'com.teknasyon.StepImplementation.existClickByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} if exist in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipeKeyy' and 'com.teknasyon.StepImplementation.swipeKeyy'"}
+{"logLevel":"debug","message":"Found {}li elementi bulana kadar {} kere swipe yap ve elementi bul in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendK' and 'com.teknasyon.StepImplementation.sendK'"}
+{"logLevel":"debug","message":"Found {} elementine {} degerini gir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.sendK' and 'com.teknasyon.StepImplementation.sendK'"}
+{"logLevel":"debug","message":"Found {} element write {} text in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipe' and 'com.teknasyon.StepImplementation.swipe'"}
+{"logLevel":"debug","message":"Found {} kere aşağıya kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.swipe' and 'com.teknasyon.StepImplementation.swipe'"}
+{"logLevel":"debug","message":"Found Swipe times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.clickByKey' and 'com.teknasyon.StepImplementation.clickByKey'"}
+{"logLevel":"debug","message":"Found {} elementinin {} attirbute degeri {} iceriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.teknasyon.StepImplementation.generateRandomDateNumber' and 'com.teknasyon.StepImplementation.generateRandomDateNumber'"}
+{"logLevel":"debug","message":"Found Rastgele date numara uret in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementinin {} textini içerdiği kontrol edilir : public void checkTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tİçeriği {} e eşit olan elementli bul ve tıkla : public void clickByValue(String value)"}
+{"logLevel":"debug","message":"\t{} tane {} elementi var mı kontrol et : public void checkNumberOfElementsWithText(int n, String key)"}
+{"logLevel":"debug","message":"\tCheck that the {} element is not visible : public void notExistElement(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} text equals {} and click : public void clickByIdWithContains(String key, String text)"}
+{"logLevel":"debug","message":"\t{},{} koordinatlarına tıkla : public void koordinataTikla(int x, int y)"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve random numara değerini yaz : public void sendRandomNumber(String key)"}
+{"logLevel":"debug","message":"\t{} element write {} text : public void sendK(String str, String str2)"}
+{"logLevel":"debug","message":"\t{} yönüne swipe et : public void swipe(String yon)"}
+{"logLevel":"debug","message":"\tDeğeri {} e eşit olan elementi bul ve tıkla : public void clickByText(String text)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySecond(int seconds)"}
+{"logLevel":"debug","message":"\tClick the {} element {} times : public void tapElementMultipleTimes(String key, int clickCount)"}
+{"logLevel":"debug","message":"\tCheck that the {} element contains the text {} : public void checkTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tFind element by {} and save text as {} : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li ve değeri {} e eşit olan elementi bul ve tıkla : public void clickByIdWithContains(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elementin değeri {} e içerdiğini kontrol et : public void containsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tOpen the notification bar area : public void openTheNotification()"}
+{"logLevel":"debug","message":"\t{} elementine {} saniye boyunca basılı tut : public void pressElementForDuration(String key, int second) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element text equals {} and click : public void clickByText(String text)"}
+{"logLevel":"debug","message":"\t{} değerini sayfa üzerinde olup olmadığını kontrol et. : public void getPageSourceFindWord(String text)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} olarak sakla : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve varsa tıkla : public void existClickByKey(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} kere aşağıya kaydır : public void swipe(int times) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} kere yukarı doğru kaydır : public void swipeUP(int times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tCheck element {} is not active : public void checkElementIsNotActive(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} and send keys {} : public void sendKeysByKeyNotClear(String t, String k)"}
+{"logLevel":"debug","message":"\tClick element {} : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elementine yaz : public void sendKeysByKeyNotClear(String t, String k)"}
+{"logLevel":"debug","message":"\t{} li elementin değeri {} e eşitliğini kontrol et : public void equalsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tCheck for {} {} elements : public void checkNumberOfElementsWithText(int n, String key)"}
+{"logLevel":"debug","message":"\tSwipe times {} : public void swipe(int times) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementinin olmadigi kontrol edilir : public void notExistElement(String key)"}
+{"logLevel":"debug","message":"\tBellekte kaydedilen liste ve mapleri temizle : public void clearListsFromRam()"}
+{"logLevel":"debug","message":"\t{} li elementi rasgele sec : public void chooseRandomProduct(String key)"}
+{"logLevel":"debug","message":"\tCheck if element {} exist : public void existElement(String key)"}
+{"logLevel":"debug","message":"\tKlavyeyi kapat : public void hideAndroidKeyboard()"}
+{"logLevel":"debug","message":"\tFind element value equals {} and click : public void clickByValue(String value)"}
+{"logLevel":"debug","message":"\t{} elementinin görünürlüğü kontrol edilir : public void existElement(String key)"}
+{"logLevel":"debug","message":"\t{} li element varsa tıkla : public void tapElementWithKeyControl(String key)"}
+{"logLevel":"debug","message":"\tCheck that the element {} contains the saved attribute {} : public void checkTheContainsSaveKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tFind element by {} and text equals {} : public void equalsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{}li elementi bulana kadar {} kere swipe yap ve elementi bul : public void swipeKeyy(String key, int limit) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementin  merkezine tıkla  : public void tapElementWithKey(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySecond(int seconds)"}
+{"logLevel":"debug","message":"\t{} elementine {} degerini gir : public void sendK(String str, String str2)"}
+{"logLevel":"debug","message":"\t{} li element saklanan {} değerini içeriyor mu kontrol et : public void checkTheContainsSaveKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} textini içeren elemente kadar aşağı kaydır : public void swipeToElementContainsText(String text)"}
+{"logLevel":"debug","message":"\tFind element by {} clear and send keys {} : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve temizle : public void clearKeysByKey(String key)"}
+{"logLevel":"debug","message":"\tCheck element {} is active : public void checkElementIsActive(String key)"}
+{"logLevel":"debug","message":"\tFind element by {}  swipe  : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} and text contains {} : public void containsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tgeri butonuna bas : public void clickBybackButton()"}
+{"logLevel":"debug","message":"\tSwipe up times {} : public void swipeUP(int times) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementi aktif değil mi kontrol et : public void checkElementIsNotActive(String key)"}
+{"logLevel":"debug","message":"\tClick element by {} if exist : public void existClickByKey(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementinin {} attirbute degeri {} iceriyor mu : public void clickByKey(String key, String value, String check)"}
+{"logLevel":"debug","message":"\t{} li elementi bulana kadar swipe et : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\tPress and hold the element {} for {} seconds : public void pressElementForDuration(String key, int second) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} Elementine tıkla : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\t{} kere hafif yukarı doğru kaydır : public void swipeUPTwo(int times) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{},{} oranlarından {},{} oranlarına {} kere swipe et : public void pointToPointSwipe(int startX, int startY, int endX, int endY, int count) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {} clear : public void clearKeysByKey(String key)"}
+{"logLevel":"debug","message":"\t{} uzunlugunda random bir kelime üret ve {} olarak sakla : public void createRandomNumber(int length, String saveKey)"}
+{"logLevel":"debug","message":"\t{} elementine {} kez tıkla : public void tapElementMultipleTimes(String key, int clickCount)"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve {} değerini yaz : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tDeğeri {} e eşit olan {}. elementi bul ve tıkla : public void clickByText(String text, int index)"}
+{"logLevel":"debug","message":"\t{} elementi aktif mi kontrol et : public void checkElementIsActive(String key)"}
+{"logLevel":"debug","message":"\tRastgele date numara uret : public void generateRandomDateNumber()"}
+{"logLevel":"debug","message":"\tHide keyboard : public void hideAndroidKeyboard()"}
+{"logLevel":"debug","message":"started gRPC server on port 51207"}
+{"logLevel":"info","message":"Listening on port:51207"}
+2023-08-25 17:17:39 INFO  Reflections:219 scan - Reflections took 603 ms to scan 145 urls, producing 5393 keys and 21917 values
+2023-08-25 17:17:39 INFO  HookImplementation:43 beforeScenario - ************************************  BeforeScenario  ************************************
+2023-08-25 17:17:39 INFO  HookImplementation:44 beforeScenario - SCENARIO NAME: Scenario 7
+2023-08-25 17:17:39 INFO  HookImplementation:45 beforeScenario - []
+2023-08-25 17:17:39 INFO  HookImplementation:52 beforeScenario - Local cihazda Android ortamında test ayağa kalkacak
+Aug 25, 2023 5:17:46 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Click element {}' using 'class com.teknasyon.StepImplementation.clickByKey"}
+2023-08-25 17:17:46 INFO  StoreHelper:66 getFileList - 1 adet json dosyası bulunmaktadır.
+2023-08-25 17:17:48 INFO  StepImplementation:385 clickByKey - APIDemosApp elementine tıkladı
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.teknasyon.StepImplementation.waitBySecond"}
+2023-08-25 17:17:50 INFO  StepImplementation:590 waitBySecond - 2 saniye beklendi
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Click element {}' using 'class com.teknasyon.StepImplementation.clickByKey"}
+2023-08-25 17:17:51 INFO  StepImplementation:385 clickByKey - APIDemosNotification elementine tıkladı
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Wait {} seconds' using 'class com.teknasyon.StepImplementation.waitBySecond"}
+2023-08-25 17:17:53 INFO  StepImplementation:590 waitBySecond - 2 saniye beklendi
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Click element {}' using 'class com.teknasyon.StepImplementation.clickByKey"}
+2023-08-25 17:17:54 INFO  StepImplementation:385 clickByKey - APIDemosIncomingMessage elementine tıkladı
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Wait {} seconds' using 'class com.teknasyon.StepImplementation.waitBySecond"}
+2023-08-25 17:17:56 INFO  StepImplementation:590 waitBySecond - 2 saniye beklendi
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Click element {}' using 'class com.teknasyon.StepImplementation.clickByKey"}
+2023-08-25 17:17:57 INFO  StepImplementation:385 clickByKey - APIDemosShowNotify elementine tıkladı
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Wait {} seconds' using 'class com.teknasyon.StepImplementation.waitBySecond"}
+2023-08-25 17:17:59 INFO  StepImplementation:590 waitBySecond - 2 saniye beklendi
+-----------------------------------------------------------------
+{"logLevel":"debug","message":"Executing 'Open the notification bar area' using 'class com.teknasyon.StepImplementation.openTheNotification"}
+2023-08-25 17:18:00 INFO  HookImplementation:161 afterStep - java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.openNotifications()" because "this.driver" is null
+2023-08-25 17:18:00 INFO  HookImplementation:162 afterStep - java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.openNotifications()" because "this.driver" is null
+	at com.teknasyon.StepImplementation.openTheNotification(StepImplementation.java:863)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:30)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41)
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14)
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33)
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19)
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:44)
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+2023-08-25 17:18:00 INFO  HookImplementation:151 afterScenario - *************************************************************************
+
+2023-08-25 17:18:00 INFO  HookImplementation:152 afterScenario - TEST BİTTİ
+
+2023-08-25 17:18:00 INFO  HookImplementation:153 afterScenario - *************************************************************************
+
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

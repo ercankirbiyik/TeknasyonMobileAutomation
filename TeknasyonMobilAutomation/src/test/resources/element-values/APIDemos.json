@@ -1,0 +1,359 @@
+[
+  {
+    "key": "APIDemosApp",
+    "androidValue": "//*[@text='App']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDevam",
+    "androidValue": "//*[@text='Devam']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTamam",
+    "androidValue": "//*[@text='Tamam']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosActionBar",
+    "androidValue": "//*[@text='Action Bar']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosActionBarTabs",
+    "androidValue": "//*[@text='Action Bar Tabs']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosAddNewTab",
+    "androidValue": "//*[@text='Add new tab']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosRemoveLastTab",
+    "androidValue": "//*[@text='Remove last tab']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosToggleTabMode",
+    "androidValue": "//*[@text='Toggle tab mode']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTab0",
+    "androidValue": "//*[@text='TAB 0']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTab1",
+    "androidValue": "//*[@text='TAB 1']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTab2",
+    "androidValue": "//*[@text='TAB 2']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosRemoveAllTabs",
+    "androidValue": "com.hmh.api:id/btn_remove_all_tabs",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosRemoveLastTab",
+    "androidValue": "//*[@text='Remove last tab']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosActionBarTab",
+    "androidValue": "android:id/action_bar",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTabList",
+    "androidValue": "//*[@class='android.app.ActionBar$Tab']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosActivity",
+    "androidValue": "//*[@text='Activity']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosCustomTitle",
+    "androidValue": "//*[@text='Custom Title']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosLeftTextEdit",
+    "androidValue": "com.hmh.api:id/left_text_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosRightTextEdit",
+    "androidValue": "com.hmh.api:id/right_text_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosActivityTabText",
+    "androidValue": "com.hmh.api:id/left_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosChangeLeftButton",
+    "androidValue": "com.hmh.api:id/left_text_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosChangeRightButton",
+    "androidValue": "com.hmh.api:id/right_text_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosAlertDialogs",
+    "androidValue": "//*[@text='Alert Dialogs']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosListDialog",
+    "androidValue": "com.hmh.api:id/select_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosCommandTwo",
+    "androidValue": "//*[@text='Command two']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosPopupMessage",
+    "androidValue": "android:id/message",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDeviceAdmin",
+    "androidValue": "//*[@text='Device Admin']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDeviceAdminGeneral",
+    "androidValue": "//*[@bounds='[36,153][156,194]']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDeviceAdminEnableAdmin",
+    "androidValue": "//*[@bounds='[561,200][759,241]']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDeviceAdminEnableAdminRadioButton",
+    "androidValue": "//*[@bounds='[1116,196][1164,244]']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosDeviceAdminEnableAdminActivateButton",
+    "androidValue": "com.android.settings:id/action_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosFragment",
+    "androidValue": "//*[@text='Fragment']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosFragmentContextMenu",
+    "androidValue": "//*[@text='Context Menu']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosLongPressButton",
+    "androidValue": "com.hmh.api:id/long_press",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosLongPressMenuA",
+    "androidValue": "//*[@text='Menu A']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosLongPressMenuB",
+    "androidValue": "//*[@text='Menu B']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosHideAndShow",
+    "androidValue": "//*[@text='Hide and Show']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosHide",
+    "androidValue": "//*[@text='Hide']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosHideAndShowTextBoxes",
+    "androidValue": "com.hmh.api:id/saved",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosSecondHideButton",
+    "androidValue": "com.hmh.api:id/frag2hide",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosShowButton",
+    "androidValue": "//*[@text='Show']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosNotification",
+    "androidValue": "//*[@text='Notification']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosIncomingMessage",
+    "androidValue": "//*[@text='IncomingMessage']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosShowNotify",
+    "androidValue": "com.hmh.api:id/notify",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosNotification",
+    "androidValue": "//*[@text='kthx. meet u for dinner. cul8r']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosIncomingMessageView",
+    "androidValue": "//*[@bounds='[96,126][498,185]']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosViews",
+    "androidValue": "//*[@text='Views']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosScrollBars",
+    "androidValue": "//*[@text='ScrollBars']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTabs",
+    "androidValue": "//*[@text='Tabs']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemos5.Scrollable",
+    "androidValue": "//*[@text='5. Scrollable']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "APIDemosTAB30",
+    "androidValue": "//*[@text='TAB 30']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
